@@ -1,3 +1,10 @@
-#header {
-	color:red;
+
+.navbar { 
+	margin-bottom: 0;
+	border-radius: 0;
+}
+      
+footer {
+	background-color: red;
+    padding: 25px;
 }
