@@ -1,10 +1,27 @@
+/*if you want to change any style in nav bar is necessary that you take off the class
+nav-bar-inverse for exemple or i can edit just the class .navbar-inverse*/
 
-.navbar{ 
+/*i solved the fuckin problem with links at the top of my navbar using just a class who changed
+the links (a) of my html*/
+
+.navbar { 
 	margin-bottom: 0;
 	border-radius: 0;
-	color: 
 }
       
 footer {
     padding: 25px;
+    background color: #034EFF;
 }
+
+.navbar-custon {
+	background-color: #6895FF;
+	color: #FFFFFF;
+}
+
+.navbar-font {
+	color: white;
+}
+
+
+
